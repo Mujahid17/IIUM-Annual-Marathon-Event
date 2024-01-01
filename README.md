@@ -32,3 +32,5 @@ Running, within this context, becomes a metaphor for life, instilling discipline
 
 In addition to its physical and environmental dimensions, the IIUM Annual Marathon embraces cultural and educational aspects. It becomes a canvas for showcasing Islamic art and culture, celebrating the rich heritage of Islam and providing insights into Islamic marathon traditions. The marathon, in its entirety, strives to exemplify the harmony of passion and faith, debunking the notion that athletic passion and adherence to Islamic principles are mutually exclusive. Each step taken in this marathon is a testament to the enduring principles of Islam, inviting participants to join in a journey where the pursuit of passion and faith converge in a tapestry of shared experiences and values. <br>
 
+<strong>Entity Relationship Diagram</strong> <br>
+![Screenshot 2023-12-29 213000](https://github.com/Azimaizat02/INFO-3305_sport/assets/31058112/5fdb8f23-b74e-482b-bf26-17dc1bfba481)
