@@ -23,7 +23,7 @@ In an era where connectivity is paramount, the IIUM Annual Marathon Web Applicat
 
 Our core mission revolves around a commitment to Shariah compliance that transcends the conventional norms of sports platforms. The IIUM Annual Marathon Web Application advocates for the coexistence of passion and principles. Join us in this virtual domain where the thrill of running converges with the timeless wisdom of Shariah, creating a space that not only celebrates the sport but also nurtures a sense of community grounded in Islamic ideals. <br>
 
-<p align="center"> Introduction: <br>
+<p align="center"> Objectives: <br>
 
 
 The IIUM Annual Marathon Web Application represents a digital masterpiece, seamlessly blending a commitment to Islamic values with a creative vision that extends far beyond running. At its core, this initiative aims to promote health and well-being in alignment with Islamic principles, emphasizing the importance of a healthy lifestyle and physical fitness within the framework of Islamic teachings. Beyond the physical aspect, the marathon serves as a unique platform fostering unity and brotherhood, bringing together diverse members of the IIUM community through a shared experience of running. <br>
