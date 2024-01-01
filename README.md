@@ -57,5 +57,12 @@ In addition to its physical and environmental dimensions, the IIUM Annual Marath
 ![WEB APP SEQUENCE DIAGRAM drawio](https://github.com/Mujahid17/IIUM-Annual-Marathon-Event/assets/92680702/ef4d4763-8d6a-40e5-96fa-1f5ccbadd77a)
 
 
+<strong>References</strong> <br>
+Score marathon official page: <br>
+https://www.scoremarathon.com/ <br>
+Kl Standard Chartered official page: <br>
+https://www.kl-marathon.com/ <br>
+
+
 
 
