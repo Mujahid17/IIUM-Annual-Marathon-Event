@@ -32,5 +32,23 @@ Running, within this context, becomes a metaphor for life, instilling discipline
 
 In addition to its physical and environmental dimensions, the IIUM Annual Marathon embraces cultural and educational aspects. It becomes a canvas for showcasing Islamic art and culture, celebrating the rich heritage of Islam and providing insights into Islamic marathon traditions. The marathon, in its entirety, strives to exemplify the harmony of passion and faith, debunking the notion that athletic passion and adherence to Islamic principles are mutually exclusive. Each step taken in this marathon is a testament to the enduring principles of Islam, inviting participants to join in a journey where the pursuit of passion and faith converge in a tapestry of shared experiences and values. <br>
 
+<strong>Features and functionalities</strong> <br>
+
+- Register
+<br> Users must log in before registering, ensuring a secure and personalized experience for participants interested in joining the IIUM Annual Marathon. <br>
+- About
+<br> Dive into comprehensive event and race details, offering a holistic overview of the marathon, including its mission, history, and specifics about the upcoming race.  <br>
+- Sponsor
+<br> Explore opportunities for sponsorship, fostering collaboration with businesses and organizations interested in supporting and contributing to the success of the IIUM Annual Marathon.  <br>
+- News & Media
+<br> Stay updated with the latest news and vibrant event visuals through a dedicated section, capturing the essence of the marathon during and after its occurrence. You could also download your desired images captured by the photographer. <br>
+- Participants
+<br> Access a curated list of participants, fostering a sense of community and enabling participants to connect before the event. <br>
+- Results
+<br> View detailed and real-time race results, showcasing the achievements of participants and adding a competitive and transparent element to the IIUM Annual Marathon. <br>
+- Contact Us
+<br> Connect with the marathon organizers seamlessly through the contact section, offering a direct channel for inquiries, feedback, and communication. <br>
+
+
 <strong>Entity Relationship Diagram</strong> <br>
 
