@@ -52,3 +52,6 @@ In addition to its physical and environmental dimensions, the IIUM Annual Marath
 
 <strong>Entity Relationship Diagram</strong> <br>
 ![ERD](https://github.com/Mujahid17/IIUM-Annual-Marathon-Event/assets/92680702/c05e4b60-7046-42f3-9855-cbdc4a98b8cf)
+
+<strong>Sequence Diagram</strong> <be>
+
