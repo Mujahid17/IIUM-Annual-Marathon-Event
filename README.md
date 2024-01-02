@@ -1,6 +1,6 @@
 # IIUM-Annual-Marathon-Event
 GROUP PROJECT <br>
-Group 4
+Group 3
 |            Name                 | Matric No |
 | ------------------------------- | --------- |
 | Muhammad Iqbal bin Harun   | 2115333   |
