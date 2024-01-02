@@ -1,5 +1,4 @@
 # IIUM-Annual-Marathon-Event
-# INFO-3305_sport
 GROUP PROJECT <br>
 Group 4
 |            Name                 | Matric No |
