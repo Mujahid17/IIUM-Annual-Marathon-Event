@@ -1,7 +1,7 @@
 # IIUM-Annual-Marathon-Event
 
-<div align="center"><br>
 ![cropped-logo-IIUM-ori](https://github.com/Mujahid17/IIUM-Annual-Marathon-Event/assets/92680702/a47ae7a0-d3d7-4401-9f98-5f0fc693f42f)
+<div align="center">
 <strong> GROUP PROJECT </strong><br> 
 <strong> FINAL REPORT </strong> <br>
 
