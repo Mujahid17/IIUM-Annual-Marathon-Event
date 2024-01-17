@@ -18,9 +18,9 @@ Group 3
 </div>
 <p align="center"> 
 <strong>TITLE OF THE PROJECT</strong> <br> 
-<strong>IIUM ANNUAL MARATHON</strong>
+<strong>IIUM ANNUAL MARATHON</strong><br><br>
 
-<p Introduction: <br>
+<strong>Introduction</strong> <br>
   
 Welcome to the IIUM Annual Marathon Web Application, a groundbreaking platform meticulously crafted to transcend the boundaries of a typical digital space. This application embodies the fusion of our love for running and an unwavering commitment to the values upheld by the International Islamic University Malaysia (IIUM). The IIUM Annual Marathon Web Application strives to bring together running enthusiasts while upholding the ethical standards prescribed by Islamic principles. <br> 
 
