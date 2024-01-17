@@ -50,9 +50,6 @@ In addition to its physical and environmental dimensions, the IIUM Annual Marath
 <br> Connect with the marathon organizers seamlessly through the contact section, offering a direct channel for inquiries, feedback, and communication. <br>
 
 
-<strong>Entity Relationship Diagram</strong> <br>
-![ERD](https://github.com/Mujahid17/IIUM-Annual-Marathon-Event/assets/92680702/c05e4b60-7046-42f3-9855-cbdc4a98b8cf)
-
 <strong>Sequence Diagram</strong> <br>
 ![WEB APP SEQUENCE DIAGRAM drawio](https://github.com/Mujahid17/IIUM-Annual-Marathon-Event/assets/92680702/ef4d4763-8d6a-40e5-96fa-1f5ccbadd77a)
 
@@ -60,7 +57,7 @@ In addition to its physical and environmental dimensions, the IIUM Annual Marath
 
 <strong>Challenges or Difficulties to develop the application</strong><br>
 
-- Managing database changes through migrations can get complex in large projects.<br>
+- Managing database changes through migrations can get complex throughout the projects.<br>
 - A lot of errors occurred especially when handling new things.<br>
 - Sometimes the Wi-Fi connection is not that strong and that makes the process slower.<br>
 
