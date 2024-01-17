@@ -1,5 +1,5 @@
 # IIUM-Annual-Marathon-Event
-<strong> GROUP PROJECT </strong><br>  
+<strong> GROUP PROJECT </strong> 
 <strong> FINAL REPORT </strong> <br>
 Group 3
 |            Name                 | Matric No |
