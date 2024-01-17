@@ -1,6 +1,6 @@
 # IIUM-Annual-Marathon-Event
 <strong> GROUP PROJECT </strong><br> 
-<strong> FINAL REPORT </strong> <br>
+<strong> PROPOSAL </strong> <br>
 Group 3
 |            Name                 | Matric No |
 | ------------------------------- | --------- |
@@ -55,10 +55,6 @@ In addition to its physical and environmental dimensions, the IIUM Annual Marath
 
 <strong>Sequence Diagram</strong> <br>
 ![WEB APP SEQUENCE DIAGRAM drawio](https://github.com/Mujahid17/IIUM-Annual-Marathon-Event/assets/92680702/ef4d4763-8d6a-40e5-96fa-1f5ccbadd77a)
-
-<strong>Project System captured screen</strong><br><br>
-
-<strong>Challenges or Difficulties to develop the application</strong><br><br>
 
  
 <strong>References</strong> <br>
