@@ -1,4 +1,5 @@
 # IIUM-Annual-Marathon-Event
+<div align="center">
 <strong> GROUP PROJECT </strong><br> 
 <strong> FINAL REPORT </strong> <br>
 Group 3
@@ -10,7 +11,7 @@ Group 3
 | Muhammad Mifdzal bin Norzal   | 2110957  |
 | Mohammad Haiqal Azreen bin Kamarul Zaman   | 2113829  | <br><br><br>
 
-
+</div>
 <p align="center"> 
 <strong>TITLE OF THE PROJECT</strong> <br> 
 <strong>IIUM ANNUAL MARATHON</strong>
