@@ -59,6 +59,9 @@ In addition to its physical and environmental dimensions, the IIUM Annual Marath
 ![WEB APP SEQUENCE DIAGRAM drawio](https://github.com/Mujahid17/IIUM-Annual-Marathon-Event/assets/92680702/ef4d4763-8d6a-40e5-96fa-1f5ccbadd77a)
 
 <strong>Project System captured screen</strong><br><br>
+<img width="1080" alt="image_2024-01-18_07-20-03" src="https://github.com/Mujahid17/IIUM-Annual-Marathon-Event/assets/92680702/0e64d05b-c050-49a2-a938-4dc59b58c124"><br>
+Home Page
+
 
 <strong>Challenges or Difficulties to develop the application</strong><br>
 
