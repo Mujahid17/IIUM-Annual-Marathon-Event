@@ -30,7 +30,7 @@ The IIUM Annual Marathon Web Application represents a digital masterpiece, seaml
 
 Running, within this context, becomes a metaphor for life, instilling discipline and determination in participants—values deeply rooted in Islamic principles. Moreover, the marathon goes beyond the realm of sport by acting as a catalyst for positive change, raising funds for charitable causes and embodying the spirit of generosity inherent in Islamic teachings. The event also prioritizes environmental responsibility, promoting sustainable practices that align with the Islamic emphasis on responsible stewardship of the environment. <br>
 
-In addition to its physical and environmental dimensions, the IIUM Annual Marathon embraces cultural and educational aspects. It becomes a canvas for showcasing Islamic art and culture, celebrating the rich heritage of Islam and providing insights into Islamic marathon traditions. The marathon, in its entirety, strives to exemplify the harmony of passion and faith, debunking the notion that athletic passion and adherence to Islamic principles are mutually exclusive. Each step taken in this marathon is a testament to the enduring principles of Islam, inviting participants to join in a journey where the pursuit of passion and faith converge in a tapestry of shared experiences and values. <br>
+In addition to its physical and environmental dimensions, the IIUM Annual Marathon embraces cultural and educational aspects. It becomes a canvas for showcasing Islamic art and culture, celebrating the rich heritage of Islam, and providing insights into Islamic marathon traditions. The marathon, in its entirety, strives to exemplify the harmony of passion and faith, debunking the notion that athletic passion and adherence to Islamic principles are mutually exclusive. Each step taken in this marathon is a testament to the enduring principles of Islam, inviting participants to join in a journey where the pursuit of passion and faith converge in a tapestry of shared experiences and values. <br>
 
 <strong>Features and functionalities</strong> <br>
 
@@ -56,7 +56,11 @@ In addition to its physical and environmental dimensions, the IIUM Annual Marath
 <strong>Sequence Diagram</strong> <br>
 ![WEB APP SEQUENCE DIAGRAM drawio](https://github.com/Mujahid17/IIUM-Annual-Marathon-Event/assets/92680702/ef4d4763-8d6a-40e5-96fa-1f5ccbadd77a)
 
+<strong>Project System captured screen</strong><br><br>
 
+<strong>Challenges or Difficulties to develop the application</strong><br><br>
+
+ 
 <strong>References</strong> <br>
 Score marathon official page: <br>
 https://www.scoremarathon.com/ <br>
