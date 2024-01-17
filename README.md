@@ -77,7 +77,14 @@ Result Page - 10km category male<br><br>
 <img width="1080" alt="image_2024-01-18_07-22-29" src="https://github.com/Mujahid17/IIUM-Annual-Marathon-Event/assets/92680702/4e40b9c3-dcd1-4d2c-83cf-949476cb1892"><br>
 Result Page - 21km category male<br><br>
 
+<img width="1080" alt="image_2024-01-18_07-26-39" src="https://github.com/Mujahid17/IIUM-Annual-Marathon-Event/assets/92680702/383183cb-1ff4-463f-8150-0059798b460d"><br>
+Admin side - Customer Data<br><br><br>
 
+<img width="1080" alt="image_2024-01-18_07-27-34" src="https://github.com/Mujahid17/IIUM-Annual-Marathon-Event/assets/92680702/dbc9ca1c-0cd5-46cb-bf08-e853b9ec71e1"><br>
+Admin side - Create Customer<br><br>
+
+<img width="1080" alt="image_2024-01-18_07-28-06" src="https://github.com/Mujahid17/IIUM-Annual-Marathon-Event/assets/92680702/e29f7dc0-e181-4230-82bb-f51999cbdb67"><br>
+Admin side - Edit Customer<br><br>
 
 
 
