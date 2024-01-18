@@ -28,8 +28,7 @@ In an era where connectivity is paramount, the IIUM Annual Marathon Web Applicat
 
 Our core mission revolves around a commitment to Shariah compliance that transcends the conventional norms of sports platforms. The IIUM Annual Marathon Web Application advocates for the coexistence of passion and principles. Join us in this virtual domain where the thrill of running converges with the timeless wisdom of Shariah, creating a space that not only celebrates the sport but also nurtures a sense of community grounded in Islamic ideals. <br>
 
-<p align="center"> Objectives: <br>
-
+<strong> Objectives </strong> <br>
 
 The IIUM Annual Marathon Web Application represents a digital masterpiece, seamlessly blending a commitment to Islamic values with a creative vision beyond running. At its core, this initiative aims to promote health and well-being in alignment with Islamic principles, emphasizing the importance of a healthy lifestyle and physical fitness within the framework of Islamic teachings. Beyond the physical aspect, the marathon serves as a unique platform fostering unity and brotherhood, bringing together diverse members of the IIUM community through a shared experience of running. <br>
 
@@ -52,14 +51,14 @@ In addition to its physical and environmental dimensions, the IIUM Annual Marath
 - Results:
 <br> View detailed and real-time race results, showcasing the achievements of participants and adding a competitive and transparent element to the IIUM Annual Marathon. <br>
 - Contact Us:
-<br> Connect with the marathon organizers seamlessly through the contact section, offering a direct channel for inquiries, feedback, and communication. <br>
+<br> Connect with the marathon organizers seamlessly through the contact section, offering a direct channel for inquiries, feedback, and communication. <br><br>
 
 
-<strong>Sequence Diagram</strong> <br>
+<strong>Sequence Diagram</strong> <br><br>
 ![WEB APP SEQUENCE DIAGRAM drawio](https://github.com/Mujahid17/IIUM-Annual-Marathon-Event/assets/92680702/ef4d4763-8d6a-40e5-96fa-1f5ccbadd77a)
 
 
-<strong>Project System captured screen</strong><br>
+<strong>Project System Captured Screen</strong><br>
 <img width="1080" alt="image_2024-01-18_07-20-03" src="https://github.com/Mujahid17/IIUM-Annual-Marathon-Event/assets/92680702/0e64d05b-c050-49a2-a938-4dc59b58c124"><br>
 Home Page <br><br>
 
