@@ -101,7 +101,7 @@ News and Media page<br>
 
 <img width="1080" alt="image_2024-01-18_07-57-37" src="https://github.com/Mujahid17/IIUM-Annual-Marathon-Event/assets/92680702/71f6ce69-154c-4c93-bdf5-acb32973ac4b"><br>
 Registration Page<br>
-[A page where the user wants to register for the marathon event<br><br>
+[A page where the user wants to register for the marathon event]<br><br>
 
 <img width="1080" alt="image_2024-01-18_07-58-01" src="https://github.com/Mujahid17/IIUM-Annual-Marathon-Event/assets/92680702/5f7e2862-cded-455f-b199-a2f9b4aed5cb"><br>
 Frequently Asked Questions (FAQ)<br>
