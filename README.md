@@ -61,43 +61,55 @@ In addition to its physical and environmental dimensions, the IIUM Annual Marath
 <strong>Project System Captured Screen</strong><br>
 <img width="1080" alt="image_2024-01-18_07-20-03" src="https://github.com/Mujahid17/IIUM-Annual-Marathon-Event/assets/92680702/0e64d05b-c050-49a2-a938-4dc59b58c124"><br>
 Home Page <br>
-[Features the our website's logo and tagline,to guide visitors to other parts of the website]<br><br>
+[Features our website's logo and tagline, to guide users to other parts of the website]<br><br>
 
 <img width="1080" alt="image_2024-01-18_07-21-03" src="https://github.com/Mujahid17/IIUM-Annual-Marathon-Event/assets/92680702/8cc2923d-4c97-40ea-ac4e-bd758e9c965f"><br>
-About Us Page <br><br>
+About Us Page <br>
+[Explain about what our website is to the users]<br><br>
 
 <img width="1080" alt="image_2024-01-18_07-21-20" src="https://github.com/Mujahid17/IIUM-Annual-Marathon-Event/assets/92680702/e35523aa-2ebf-4255-b666-b5a608709a50"><br>
-List of Participant <br><br>
+List of Participants <br>
+[Shows the list of participants that have registered for the marathon event]<br><br>
 
 <img width="1080" alt="image_2024-01-18_07-21-58" src="https://github.com/Mujahid17/IIUM-Annual-Marathon-Event/assets/92680702/7a3cbfd8-7b24-4e71-99d0-e70e4ec2862e"><br>
-Result page - 5km category male<br><br>
+Result page - 5km category male<br>
+[Shows the result of the marathon event, for example - 5km male category]<br><br>
 
 <img width="1080" alt="image_2024-01-18_07-22-12" src="https://github.com/Mujahid17/IIUM-Annual-Marathon-Event/assets/92680702/3f8a2460-374b-4297-926f-a5f495adcb81"><br>
-Result Page - 10km category male<br><br>
+Result Page - 10km category male<br>
+[Shows the result of the marathon event, for example - 10km male category]<br><br>
 
 <img width="1080" alt="image_2024-01-18_07-22-29" src="https://github.com/Mujahid17/IIUM-Annual-Marathon-Event/assets/92680702/4e40b9c3-dcd1-4d2c-83cf-949476cb1892"><br>
-Result Page - 21km category male<br><br>
+Result Page - 21km category male<br>
+[Shows the result of the marathon event, for example - 21km male category]<br><br>
 
 <img width="1080" alt="image_2024-01-18_07-26-39" src="https://github.com/Mujahid17/IIUM-Annual-Marathon-Event/assets/92680702/383183cb-1ff4-463f-8150-0059798b460d"><br>
-Admin side - Customer Data<br><br>
+Admin side - Customer Data<br>
+[Shows how the data of the customer are being handled by the admin]<br><br>
 
 <img width="1080" alt="image_2024-01-18_07-27-34" src="https://github.com/Mujahid17/IIUM-Annual-Marathon-Event/assets/92680702/dbc9ca1c-0cd5-46cb-bf08-e853b9ec71e1"><br>
-Admin side - Create Customer<br><br>
+Admin side - Create Customer<br>
+[Shows how the admin is creating a new customer]<br><br>
 
 <img width="1080" alt="image_2024-01-18_07-28-06" src="https://github.com/Mujahid17/IIUM-Annual-Marathon-Event/assets/92680702/e29f7dc0-e181-4230-82bb-f51999cbdb67"><br>
-Admin side - Edit Customer<br><br>
+Admin side - Edit Customer<br>
+[Shows how the admin is editing the existing customer]<br><br>
 
 <img width="1080" alt="image_2024-01-18_07-55-50" src="https://github.com/Mujahid17/IIUM-Annual-Marathon-Event/assets/92680702/4fabec52-bd84-4887-895d-e11832b541bd"><br>
-News and Media page<br><br>
+News and Media page<br>
+[Shows the latest news and vibrant event visuals through a dedicated section, capturing the essence of the marathon during and after its occurrence]<br><br>
 
 <img width="1080" alt="image_2024-01-18_07-57-37" src="https://github.com/Mujahid17/IIUM-Annual-Marathon-Event/assets/92680702/71f6ce69-154c-4c93-bdf5-acb32973ac4b"><br>
-Registration Page<br><br>
+Registration Page<br>
+[A page where the user wants to register for the marathon event<br><br>
 
 <img width="1080" alt="image_2024-01-18_07-58-01" src="https://github.com/Mujahid17/IIUM-Annual-Marathon-Event/assets/92680702/5f7e2862-cded-455f-b199-a2f9b4aed5cb"><br>
-Frequently Asked Questions (FAQ)<br><br>
+Frequently Asked Questions (FAQ)<br>
+[A page that shows the frequently asked questions from the user]<br><br>
 
 <img width="1080" alt="image_2024-01-18_07-58-16" src="https://github.com/Mujahid17/IIUM-Annual-Marathon-Event/assets/92680702/d2dad491-0f0a-4f3a-9e6b-5ccafddc2cd1"><br>
-Contact Page<br><br>
+Contact Page<br>
+[A page where the users can connect with the marathon organizers seamlessly, offering a direct channel for inquiries, feedback, and communication]<br><br>
 
 
 <strong>Challenges or Difficulties to develop the application</strong><br>
