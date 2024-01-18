@@ -60,7 +60,8 @@ In addition to its physical and environmental dimensions, the IIUM Annual Marath
 
 <strong>Project System Captured Screen</strong><br>
 <img width="1080" alt="image_2024-01-18_07-20-03" src="https://github.com/Mujahid17/IIUM-Annual-Marathon-Event/assets/92680702/0e64d05b-c050-49a2-a938-4dc59b58c124"><br>
-Home Page <br><br>
+Home Page <br>
+[Features the our website's logo and tagline,to guide visitors to other parts of the website]<br><br>
 
 <img width="1080" alt="image_2024-01-18_07-21-03" src="https://github.com/Mujahid17/IIUM-Annual-Marathon-Event/assets/92680702/8cc2923d-4c97-40ea-ac4e-bd758e9c965f"><br>
 About Us Page <br><br>
