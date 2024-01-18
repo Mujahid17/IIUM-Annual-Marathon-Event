@@ -18,7 +18,7 @@ Group 3
 </div>
 <p align="center"> 
 <strong>TITLE OF THE PROJECT</strong> <br> 
-<strong>IIUM ANNUAL MARATHON</strong><br><br>
+<strong><u>IIUM ANNUAL MARATHON</u></strong><br><br>
 
 <strong> Introduction </strong> <br>
   
