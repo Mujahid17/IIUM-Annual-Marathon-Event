@@ -58,7 +58,8 @@ In addition to its physical and environmental dimensions, the IIUM Annual Marath
 <strong>Sequence Diagram</strong> <br>
 ![WEB APP SEQUENCE DIAGRAM drawio](https://github.com/Mujahid17/IIUM-Annual-Marathon-Event/assets/92680702/ef4d4763-8d6a-40e5-96fa-1f5ccbadd77a)
 
-<strong>Project System captured screen</strong><br><br>
+
+<strong>Project System captured screen</strong><br>
 <img width="1080" alt="image_2024-01-18_07-20-03" src="https://github.com/Mujahid17/IIUM-Annual-Marathon-Event/assets/92680702/0e64d05b-c050-49a2-a938-4dc59b58c124"><br>
 Home Page <br><br>
 
@@ -78,7 +79,7 @@ Result Page - 10km category male<br><br>
 Result Page - 21km category male<br><br>
 
 <img width="1080" alt="image_2024-01-18_07-26-39" src="https://github.com/Mujahid17/IIUM-Annual-Marathon-Event/assets/92680702/383183cb-1ff4-463f-8150-0059798b460d"><br>
-Admin side - Customer Data<br><br><br>
+Admin side - Customer Data<br><br>
 
 <img width="1080" alt="image_2024-01-18_07-27-34" src="https://github.com/Mujahid17/IIUM-Annual-Marathon-Event/assets/92680702/dbc9ca1c-0cd5-46cb-bf08-e853b9ec71e1"><br>
 Admin side - Create Customer<br><br>
@@ -86,7 +87,17 @@ Admin side - Create Customer<br><br>
 <img width="1080" alt="image_2024-01-18_07-28-06" src="https://github.com/Mujahid17/IIUM-Annual-Marathon-Event/assets/92680702/e29f7dc0-e181-4230-82bb-f51999cbdb67"><br>
 Admin side - Edit Customer<br><br>
 
+<img width="1080" alt="image_2024-01-18_07-55-50" src="https://github.com/Mujahid17/IIUM-Annual-Marathon-Event/assets/92680702/4fabec52-bd84-4887-895d-e11832b541bd"><br>
+News and Media page<br><br>
 
+<img width="1080" alt="image_2024-01-18_07-57-37" src="https://github.com/Mujahid17/IIUM-Annual-Marathon-Event/assets/92680702/71f6ce69-154c-4c93-bdf5-acb32973ac4b"><br>
+Registration Page<br><br>
+
+<img width="1080" alt="image_2024-01-18_07-58-01" src="https://github.com/Mujahid17/IIUM-Annual-Marathon-Event/assets/92680702/5f7e2862-cded-455f-b199-a2f9b4aed5cb"><br>
+Frequently Asked Questions (FAQ)<br><br>
+
+<img width="1080" alt="image_2024-01-18_07-58-16" src="https://github.com/Mujahid17/IIUM-Annual-Marathon-Event/assets/92680702/d2dad491-0f0a-4f3a-9e6b-5ccafddc2cd1"><br>
+Contact Page<br><br>
 
 
 <strong>Challenges or Difficulties to develop the application</strong><br>
@@ -95,12 +106,6 @@ Admin side - Edit Customer<br><br>
 - A lot of errors occurred especially when handling new things.<br>
 - Sometimes the Wi-Fi connection is not that strong and that makes the process slower.<br>
 
-
-<strong>References</strong> <br>
-Score marathon official page: <br>
-https://www.scoremarathon.com/ <br>
-Kl Standard Chartered official page: <br>
-https://www.kl-marathon.com/ <br>
 
 
 
